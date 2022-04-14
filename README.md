@@ -18,6 +18,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@sumair_qaisar](https://twitter.com/sumair_qaisar)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumairq/)
 
+👤 **Dennis Akagha**
+
+- GitHub: [@sumairq](https://github.com/denscholar)
+- Twitter: [@sumair_qaisar](https://twitter.com/dennisakagha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennisakagha/)
+
 
 ## 🤝 Contributing
 
